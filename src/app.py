@@ -5,9 +5,10 @@ import streamlit as st
 
 st.markdown(
     '''
-    <h1 style="padding-left: 10px; padding-bottom: 20px;">
+    <h1 style="padding-left: 10px; padding-bottom: 20px;" align="center">
         Search Engine Scraper
     </h1>
+    <p align="right">Built with ☕ by <a href="https://github.com/Kunal-Kumar-Sahoo/" target="_blank">Kunal Kumar Sahoo</a></p>
     ''',
     unsafe_allow_html=True
 )
